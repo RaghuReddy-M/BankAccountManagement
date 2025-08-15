@@ -27,5 +27,3 @@ It demonstrates **OOP concepts, Collections, Exception Handling, and File Handli
 - **Java Serialization**
 
 ---
-
-## Project Structure
